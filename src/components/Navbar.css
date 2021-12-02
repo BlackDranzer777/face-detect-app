@@ -1,0 +1,12 @@
+.navbar {
+    height: 50px;
+    background-color: #4064ac;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    padding: 0px 100px;
+    font-size: 20px;
+    z-index: 999;
+    position: sticky;
+}
